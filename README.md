@@ -100,4 +100,4 @@ A test merchant is automatically seeded on startup:
     - Open: `http://localhost:3001/checkout?order_id=YOUR_ORDER_ID`
 
 3.  **Verify**:
-    - Check the [Dashboard](http://localhost:3000/dashboard) to see the completed transaction.
+    - Check the http://localhost:3000/dashboard to see the completed transaction.
